@@ -1,4 +1,4 @@
-
+![logo](https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)
 <h3 align="center">Innovative C++ Developer with 4 Years of Experience in High-Performance Software Development and GUI Design</h3>  
  <img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGUxZzJmamN5c25uMm5zbDhleXV5Zm1yY3d0bmVxdnJnZWJlbHM5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.webp"/></p>
   
