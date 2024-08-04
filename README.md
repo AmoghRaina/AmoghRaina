@@ -33,3 +33,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghraina&" alt="amoghraina" /></p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoghraina&label=Profile%20views&color=0e75b6&style=flat" alt="amoghraina" /> </p> 
+
+
+
+![giphy-unscreen](https://github.com/user-attachments/assets/7fa7b973-ff96-4020-b82a-85972f41cdd4)
+
+
