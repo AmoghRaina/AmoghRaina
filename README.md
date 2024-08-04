@@ -28,8 +28,4 @@
 <img src="https://cdn.discordapp.com/attachments/971436560203542538/1269598790021550152/icons8-binary-30.png?ex=66b0a583&is=66af5403&hm=3d7f7fcc5c43db5692a71556e4a997ca5adc0e81e89337c9017721c7fd81675b&" alt="binary" width="40" height="40"/> 
 </p>  
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amoghraina&show_icons=true&locale=en&layout=compact" alt="amoghraina" /></p>  
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghraina&" alt="amoghraina" /></p>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amoghraina&label=Profile%20views&color=0e75b6&style=flat" alt="amoghraina" /> </p> 
