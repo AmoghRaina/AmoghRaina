@@ -1,4 +1,5 @@
 ![logo]([https://github.com/user-attachments/assets/852d0947-ed7f-43cd-b3e0-de157406d071](https://github.com/user-attachments/assets/a0ceb8cc-2048-4a61-8042-37a08f8427eb))
+
 <h3 align="center">Innovative C++ Developer with 4 Years of Experience in High-Performance Software Development and GUI Design</h3>  
  <img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGUxZzJmamN5c25uMm5zbDhleXV5Zm1yY3d0bmVxdnJnZWJlbHM5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.webp"/></p>
   
