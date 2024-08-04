@@ -1,7 +1,6 @@
 
 <h3 align="center">Innovative C++ Developer with 4 Years of Experience in High-Performance Software Development and GUI Design</h3>  
  <img align="right" width="300" src="https://cdn.discordapp.com/attachments/971436560203542538/1269605171382456411/giphy-unscreen.gif?ex=66b0ab74&is=66af59f4&hm=4538719db29b267c49aff0ca64e8bbd7c6b4da3e10b594544cd44f422800f47a&"/></p>
-  ![giphy-unscreen](https://github.com/user-attachments/assets/2e7288e0-5cdd-4afe-953c-6fa25e48e2fb)
 
 - ♾️ **I’m currently learning:** Assembly language and binary programming  
   
