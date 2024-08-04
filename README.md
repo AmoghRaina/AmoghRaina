@@ -1,6 +1,6 @@
 
 <h3 align="center">Innovative C++ Developer with 4 Years of Experience in High-Performance Software Development and GUI Design</h3>  
- <img align="right" width="300" src="https://i.pinimg.com/originals/f8/7d/39/f87d39baf9f125e849e99d9d008c3f24.gif"/></p>
+ <img align="right" width="300" src="https://i.pinimg.com/originals/51/8f/68/518f68eeb427a194ac1ef20193057387.gif"/></p>
   
 - ♾️ **I’m currently learning:** Assembly language and binary programming  
   
